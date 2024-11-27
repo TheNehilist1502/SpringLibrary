@@ -1,4 +1,4 @@
-package com.project.commonModule.models;
+package com.project.commonModule.Common.infrastructure.jpa.entity;
 
 
 import jakarta.persistence.*;
@@ -8,7 +8,6 @@ import lombok.NoArgsConstructor;
 import lombok.RequiredArgsConstructor;
 
 import java.util.Date;
-
 
     @Entity
     @DiscriminatorValue("Employees")

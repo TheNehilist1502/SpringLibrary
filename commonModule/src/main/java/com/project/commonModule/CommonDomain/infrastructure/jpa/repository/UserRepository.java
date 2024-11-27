@@ -1,6 +1,6 @@
-package com.project.commonModule.repository;
+package com.project.commonModule.Common.infrastructure.jpa.repository;
 
-import com.project.commonModule.models.Users;
+import com.project.commonModule.Common.infrastructure.jpa.entity.Users;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

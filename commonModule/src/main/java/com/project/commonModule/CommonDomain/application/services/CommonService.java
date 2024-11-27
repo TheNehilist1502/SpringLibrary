@@ -1,4 +1,4 @@
-package com.project.commonModule.services;
+package com.project.commonModule.Common.application.services;
 
 
 import com.project.commonModule.models.Status;

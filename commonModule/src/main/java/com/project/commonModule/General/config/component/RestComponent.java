@@ -1,4 +1,4 @@
-package com.project.commonModule.component;
+package com.project.commonModule.config.component;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Component;

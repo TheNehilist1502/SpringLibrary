@@ -1,4 +1,4 @@
-package com.project.commonModule.controller;
+package com.project.commonModule.Common.infrastructure.rest.controller;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
